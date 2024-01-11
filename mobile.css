@@ -119,10 +119,36 @@
     margin-top: 130px;
   }
 
+  .section-portifolio {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-between;
+    width: 100%;
+    padding-bottom: 64px;
+  }
+
   .section-portifolio-grid {
-    grid-template-columns: auto;
+    grid-template-columns: auto auto;
     row-gap: 36px;
-    margin-top: 24px;
+    margin-top: 100px;
+    justify-content: space-between;
+  }
+
+  .section-portifolio-card {
+    width: 100%;
+    height: auto;
+    border-width: 3px;
+  }
+
+  .section-portifolio-card-img {
+    width: 40px;
+    height: auto;
+    cursor: pointer;
+  }
+
+  .section-portifolio-card-links {
+    width: 35%;
   }
 
   .section-experiences-card {
@@ -130,6 +156,6 @@
   }
 
   .footer-content {
-    width: 100%;
+    width: 94vw;
   }
 }
