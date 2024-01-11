@@ -69,6 +69,10 @@ footer {
   display: flex;
 }
 
+a {
+  color: #1e1e1e;
+}
+
 .hero-info-subtitle {
   font-size: 20px;
   line-height: 28px;
@@ -81,6 +85,7 @@ footer {
   width: 100%;
   flex-direction: column;
   align-items: center;
+  margin-bottom: 64px;
 }
 
 .content-container {
@@ -89,6 +94,7 @@ footer {
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
+  margin-bottom: 64px;
 }
 
 .secao-hero {
@@ -109,6 +115,7 @@ footer {
   align-items: baseline;
   justify-content: space-between;
   margin-top: 64px;
+  margin-bottom: 60px;
 }
 
 .titulo-navegacao {
@@ -135,6 +142,7 @@ footer {
   width: 1216px;
   height: 594px;
   padding-top: 64px;
+  margin-bottom: 64px;
 }
 
 .hero-info-title {
@@ -144,7 +152,7 @@ footer {
 }
 
 .hero-info-img {
-  height: 594px;
+  height: 100%;
   width: 542px;
   border-radius: 40px;
   border-color: #219653;
@@ -178,6 +186,8 @@ footer {
   width: 100vw;
   padding-top: 64px;
   padding-bottom: 64px;
+  margin-top: 64px;
+  margin-bottom: 64px;
 }
 
 .habilidade-card-cont {
@@ -226,10 +236,11 @@ footer {
 
 .section-portifolio {
   display: flex;
-  width: 100%;
   flex-direction: column;
-  align-items: flex-start;
-  justify-content: flex-start;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  padding-bottom: 64px;
 }
 
 .section-portifolio-grid {
@@ -345,6 +356,7 @@ footer {
   flex-direction: row;
   align-items: center;
   justify-content: center;
+  margin-bottom: 16px;
 }
 
 .section-contact-item-icon {
