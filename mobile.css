@@ -1,0 +1,104 @@
+@media only screen and (max-device-width: 450px) {
+  button {
+    height: 80px;
+    font-size: 24px;
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  .hero-info-text-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    flex-direction: column;
+    margin-top: 40px;
+  }
+
+  .content-container {
+    width: 96vw;
+    max-width: 96vw;
+  }
+
+  .hero-info-img {
+    width: 380px;
+  }
+
+  .hero-info-title {
+    font-size: 56px;
+    margin-top: 12px;
+  }
+
+  .hero-info-subtitle {
+    font-size: 32px;
+    line-height: 36px;
+    max-width: 70%;
+  }
+
+  .barra-navegacao {
+    width: 100%;
+    margin-top: 24px;
+    margin-bottom: 120px;
+  }
+
+  .secao-hero {
+    height: auto;
+    padding-bottom: 24px;
+  }
+
+  .titulo-navegacao {
+    font-size: 32px;
+  }
+
+  .links-navegacao {
+    display: none;
+  }
+
+  .hero-info {
+    width: 100%;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: center;
+    padding-top: 180px;
+  }
+
+  .hero-info-icons {
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    border-color: #101110;
+    border-style: solid;
+    cursor: pointer;
+    justify-content: space-around;
+    margin-bottom: 40px;
+  }
+
+  .hero-info-icons-container {
+    width: 70%;
+  }
+
+  .habilidade-card-cont {
+    grid-template-columns: auto;
+    column-gap: 36px;
+    margin-top: 12px;
+  }
+
+  .section-portifolio-grid {
+    grid-template-columns: auto;
+    row-gap: 36px;
+    margin-top: 24px;
+  }
+
+  .section-experiences-card {
+    width: 90vw;
+  }
+
+  .footer-content {
+    width: 100%;
+  }
+}

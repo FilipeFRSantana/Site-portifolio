@@ -103,7 +103,7 @@ a {
   align-items: center;
   justify-content: flex-start;
   width: 100%;
-  height: 90vh;
+  height: auto;
   background-color: #fefefe;
 }
 
@@ -284,6 +284,7 @@ a {
 .section-portifolio-card-img {
   width: 24px;
   height: 24px;
+  cursor: pointer;
 }
 
 .section-experiences {
