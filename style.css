@@ -16,7 +16,7 @@ h1 {
 button {
   height: 56px;
   border-radius: 16px;
-  background-color: #219653;
+  background-color: #232196;
   border-width: 0px;
   color: #fefefe;
   font-size: 16px;
@@ -36,8 +36,8 @@ h2 {
   padding: 0px;
 }
 
-h2.verde {
-  color: #219653;
+h2.azul {
+  color: #232196;
 }
 
 h5 {
@@ -155,7 +155,7 @@ a {
   height: 100%;
   width: 542px;
   border-radius: 40px;
-  border-color: #219653;
+  border-color: #232196;
   border-width: 6px;
   border-style: solid;
 }
@@ -219,7 +219,7 @@ a {
   align-items: center;
   justify-content: center;
   border-radius: 40px;
-  background-color: #219653;
+  background-color: #232196;
   width: 80px;
   height: 80px;
   margin-bottom: 12px;
