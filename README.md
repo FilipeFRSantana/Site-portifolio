@@ -5,7 +5,7 @@ The main goal is create a website with my professional informations.
 
 # Preview
 
-<img src="https://github.com/FilipeFRSantana/Site-portifolio/blob/main/Preview.png" height="500"/>
+<img src="https://github.com/FilipeFRSantana/Site-portifolio/blob/main/Preview2.png" height="500"/>
 
 ## Live link:
 
