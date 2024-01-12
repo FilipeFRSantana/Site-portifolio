@@ -352,6 +352,10 @@ a {
   width: 100%;
 }
 
+.email-telefone {
+  font-size: 16px;
+}
+
 .section-contact-item {
   display: flex;
   flex-direction: row;
